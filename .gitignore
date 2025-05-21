@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# production build
+dist/
+build/
+
+# misc
+*.log
+*.tsbuildinfo
+
+# env files
+# .env
+# .env.*.local
+
+# coverage reports
+coverage/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
